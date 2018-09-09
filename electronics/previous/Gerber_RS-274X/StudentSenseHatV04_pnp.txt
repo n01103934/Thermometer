@@ -1,0 +1,51 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=StudentSenseHatV04
+*Date=23:31:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;19.3095;-20.9592;0;Bottom;Via9
+2;1k;THT;32.0095;-47.8832;0;Bottom;R1
+3;;molex-1x4_lock;11.1813;-6.35419;180;Bottom;U$1
+4;;;45.8937;-18.6464;0;Top;TXT1
+5;;;45.7297;-16.2004;0;Top;TXT1
+6;;to-92;11.1814;-33.6973;0;Bottom;Q2
+7;;;29.2155;-6.48119;0;Bottom;Via7
+8;;;40.2512;-11.3077;90;Top;TXT1
+9;;;9.91149;-17.1492;0;Bottom;Via6
+10;;;19.3095;-30.8652;0;Bottom;Via5
+11;;;7.62549;-20.9592;0;Bottom;Via2
+12;;;42.3462;-2.61954;0;Top;TXT3
+13;;;46.3153;-21.1771;0;Top;TXT1
+14;;;5.08549;-14.1012;0;Bottom;Via8
+15;3.9k;THT;8.6415;-42.8032;0;Bottom;R5
+16;;;12.068;-10.4642;90;Top;TXT1
+17;;;45.8937;-13.6697;0;Top;TXT1
+18;;;4.83149;-23.7532;0;Bottom;Via4
+19;;;38.6416;-37.1997;0;Top;TXT2
+20;4.7k;THT;23.8815;-35.4372;90;Bottom;R6
+21;;;45.6405;-9.87378;90;Top;TXT1
+22;;molex-1x4_lock;41.9206;-6.35419;0;Bottom;IC1
+23;;;36.6676;-28.3363;0;Bottom;Raspberry Pi 3
+24;;;10.9667;-2.87241;0;Top;TXT2
+25;;molex-1x4_lock;50.9325;-17.6572;90;Bottom;JP4
+26;;;14.6715;-10.3657;90;Top;TXT1
+27;;to-92;3.5233;-33.7353;0;Bottom;Q1
+28;;;42.9414;-10.2954;90;Top;TXT1
+29;;3 mm [THT];22.9763;-47.8833;-90;Bottom;D2
+30;4.7k;THT;26.9295;-35.4372;90;Bottom;R7
+31;;;50.8055;-43.8192;0;Bottom;Via1
+32;;;16.2615;-33.1512;0;Bottom;Via3
+33;3.9k;THT;8.6415;-45.3432;0;Bottom;R4
+34;;;9.45305;-10.3798;90;Top;TXT1
+35;;;37.357;-10.5311;90;Top;TXT1
+36;;;7.00681;-10.2954;90;Top;TXT1

@@ -1,0 +1,11 @@
+StudentSenseHatV05
+R6 0 4 4.7k
+R1 2 6 1k
+R7 0 3 4.7k
+R9 2 6 1k
+R5 1 5 3.9k
+R4 1 5 3.9k
+
+.TRAN 1ms 100ms
+* .AC DEC 100 100 1MEG
+.END
