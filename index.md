@@ -1,6 +1,7 @@
 
 
-
+# Sept 25 2018
+Worked on budget for project and I completed it. I will provide a excel document of the budget in my respository.
 
 # Sept 18 2018
 Worked on project schedule and submitted it. I provided a microsoft project document of the schedule in my Gibhub respository.
