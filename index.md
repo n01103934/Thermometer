@@ -2,7 +2,7 @@
 
 # Oct 2 2018
 Proof of purchase is due and here are pictures of my parts that I ordered at store.
-[pictures of my parts](https://github.com/n01103934/Thermometer/blob/master/images/parts.png)
+[pictures of my parts](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/parts.png)
 
 
 # Sept 25 2018
