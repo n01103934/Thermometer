@@ -1,5 +1,15 @@
 
 
+# Oct 2 2018
+Proof of purchase is due and here are pictures of my parts that I ordered at store.
+
+
+
+
+
+
+
+
 # Sept 25 2018
 Worked on budget for project and I completed it. I will provide a excel document of the budget in my respository.
 
