@@ -1,9 +1,13 @@
 
+# Oct 16 2018 
+This week I will solder my header pins for my temperature sensor on the breadboard and connect them with my developmental platform.
+
+# Oct 9 2018
+I have my parts with me and working on fritzing my connections on breadboard.
 
 # Oct 2 2018
 Proof of purchase is due and here are pictures of my parts that I ordered at store.
 [pictures of my parts](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/parts.png)
-
 
 # Sept 25 2018
 Worked on budget for project and I completed it. I will provide a excel document of the budget in my respository.
@@ -12,7 +16,6 @@ Worked on budget for project and I completed it. I will provide a excel document
 Worked on project schedule and submitted it. I provided a microsoft project document of the schedule in my Gibhub respository.
 
 # Sept 11 2018
-
 Worked on proposal and submitted it. I also provided a word document and pdf of proposal in my Github respository.
 
 # Sept 4 2018
