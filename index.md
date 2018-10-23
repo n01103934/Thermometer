@@ -1,6 +1,6 @@
 
 # Oct 23 2018
-This week I soldered my TMP006 IR temperature sensor, connected wires from my sensor to broadcom development platform and I am currently trying to get my sensor to detect my I2C address on Raspberry Pi 3.
+This week I soldered my TMP006 IR temperature sensor, connected wires from my sensor to broadcom development platform and I am currently trying to get my sensor to detect my I2C address on Raspberry Pi 3. Based on the project schedule I am on track because it shows that week eight I have to complete the breadboard milestone which will be my midterm for this week. The project has not changed I still using my sensor and Raspberry Pi 3 based on my Proposal.
 
 # Oct 16 2018 
 This week I will solder my header pins for my temperature sensor on the breadboard and connect them with my developmental platform.
