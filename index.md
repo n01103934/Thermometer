@@ -2,6 +2,7 @@
 # Oct 23 2018
 This week I soldered my TMP006 IR temperature sensor, connected wires from my sensor to broadcom development platform and I am currently trying to get my sensor to detect my I2C address on Raspberry Pi 3. Based on the project schedule I am on track because it shows that week eight I have to complete the breadboard milestone. Next week I have to design a PCB Board I will email the prototype lab my gerber files of circuit diagram in order to design one. The project has not changed I am still using the same materials like my Sensor and Raspberry Pi 3 based from my Proposal. 
 [picture of my fritzing circuit](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram.PNG)
+
 [My sensor's I2C Address](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/I2CAddress.PNG)
 
 
