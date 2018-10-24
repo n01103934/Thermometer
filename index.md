@@ -4,7 +4,7 @@ This week I soldered my TMP006 IR temperature sensor, connected wires from my se
 
 [picture of my fritzing circuit](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram.PNG)
 
-[My breadboard circuit]https://raw.githubusercontent.com/n01103934/Thermometer/master/images/breadboard_circuit_diagram.jpg
+[My breadboard circuit](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/breadboard_circuit_diagram.png)
 
 [My sensor's I2C Address](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/I2CAddress.PNG)
 
