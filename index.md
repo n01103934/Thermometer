@@ -19,10 +19,10 @@ Proof of purchase is due and here are pictures of my parts that I ordered at sto
 [pictures of my parts](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/parts.png)
 
 # Sept 25 2018
-Worked on budget for project and I completed it. I will provide a excel document of the budget in my respository.
+Worked on budget for project and I completed it. I have provided a excel document of the budget in my Github respository.
 
 # Sept 18 2018
-Worked on project schedule and submitted it. I provided a microsoft project document of the schedule in my Gibhub respository.
+Worked on project schedule and submitted it. I provided a microsoft project document of the schedule in my Github respository.
 
 # Sept 11 2018
 Worked on proposal and submitted it. I also provided a word document and pdf of proposal in my Github respository.
