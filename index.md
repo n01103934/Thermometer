@@ -1,7 +1,7 @@
 # Oct 30 2018
 This week I will have designed a PCB for my TMP006 IR Temperature Sensor and Raspberry Pi 3. I should get it soon from the prototype lab to be able soldering it for next week. Based on my project schedule I am still on track as long as I get my PCB designed and soldered by next week. My project has not changed based from my proposal I am still using the same materials from before to build it. My financial update is good I am still under budget and most of the stuff I need I already have so their is no need to buy more materials for my project. I have included the fritzing file for my project in my respository to look at how I designed the pcb. Here are links at the bottom of this weeks discussion on my design files for breadboard, schematic, and pcb diagrams.
 
-[My breadboard diagram](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/breadboard_circuit_diagram.png)
+[My breadboard diagram](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png)
 
 [My schematic diagram](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
 
