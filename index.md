@@ -1,11 +1,11 @@
 # Nov 6 2018
 This week I soldered my PCB for my TMP006 IR Temperature Sensor and Raspberry Pi 3 with the help of the prototype lab. I am currently testing out if my Raspberry Pi 3 can detect my sensor on PCB inorder to detect data from it and display it to the screen. My project has not changed I am still using both my Temperature Sensor and Raspberry Pi. I still need to figure out how to get my I2C address and data from sensor by next week but other than that the project is going well. My financial status is good I am using the same materials in my budget but it could change if my materials are damaged. There are links below this weeks dicussion to my soldered PCB below to show what I did for this week.
 
-[PCB Top Soldered](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/pcbTop.jpg)
+[PCB Top Soldered](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBTop.jpg)
 
-[PCB Bottom Soldered](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/pcbBottom.jpg)
+[PCB Bottom Soldered](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBBottom.jpg)
 
-[PCB on Raspberry Pi](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBonPi.jpg)
+[PCB on Raspberry Pi](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBPi.jpg)
 
 
 
