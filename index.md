@@ -1,6 +1,13 @@
 # Nov 13 2018
 This week I demonstrated my functional hardware can read data from my sensor and display the results on the screen. Firstly, I was able to figure out how to connect to my Raspberry Pi using Remote Desktop Connection and issue the i2c detect command to see my address was working on my PCB board successfully. My project is going well the PCB is powered on right and I can read temperature data from my sensor just by moving my finger close to it. My financial status is good my hardware was not damaged during production and testing which will not delay time creating my project. I am still using the same materials for building my capstone project as stated in my proposal. Furthermore, I am still on track based from my project schedule because I have completed by this week powering up my Raspberry Pi with PCB to show that I can read data from my sensor. There are links at the bottom of this weeks discussion to show proof of powering on my developmental platform with PCB attached to it and reading data from my sensor.
 
+[PCB Powered Up](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCB_PowerUp.png)
+
+[I2C on PCB](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/I2C_PCB.PNG)
+
+[My Sensor's Data](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/TempDataCapture.PNG)
+
+
 
 
 # Nov 6 2018
