@@ -1,2 +1,2 @@
 # Thermometer
-n01103934.gethub.io/Thermometer
+n01103934.github.io/Thermometer
