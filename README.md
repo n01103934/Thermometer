@@ -12,3 +12,15 @@ https://raw.githubusercontent.com/n01103934/Thermometer/master/images/UMLSystemD
 # Bill of Materials/Budget
 The total cost of my budget is $131.55 which is below the maximum limit of $150. I did not order any of my hardware materials online instead I went to local electronic stores such as Canada Computers and Creatron Inc. They had everything I needed in my budget including Raspberry Pi 3 kit, TMP006 IR Temperature Sensor, SD Card, USB to Ethernet Adapter, etc. I also included where I got my parts from the links in my budget. Here is a image below to show you my budget and all the materials I used for my project.
 https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Budget.PNG
+
+# Time Commitment
+
+# Mechanical Assembly
+
+# PCB / Soldering
+
+# Power Up
+
+# Unit Testing
+
+# Production Testing
