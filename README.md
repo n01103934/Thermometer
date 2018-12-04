@@ -7,3 +7,4 @@ It detects and absorbs the infrared energy from an object regardless of how hot 
 my temperature data from my sensor to the Firebase database where all my data is stored. The reason why I chose this
 project is because I was interested in the idea of reading an object's temperature data from the sensor just by pointing my finger
 directly close to it.
+(https://raw.githubusercontent.com/n01103934/Thermometer/master/images/UMLSystemDiagram.PNG)
