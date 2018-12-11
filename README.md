@@ -44,7 +44,7 @@ I made a fritzing file in my repository to create my own custom PCB just by foll
 connections to do the same for the PCB. The file is called Thermometer Circuit Diagram.fzz in my github repository. 
 https://github.com/n01103934/Thermometer
 
-Here are links to view my breadboard, schematic, and pcb diagrams for my project below.
+Here are images below to view my breadboard, schematic, and pcb diagrams for my project.
 ![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png)
 ![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
 ![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png)
