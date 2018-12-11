@@ -11,7 +11,7 @@ directly close to it. Here is a system UML diagram below to show you how my hard
 
 # Bill of Materials/Budget
 The total cost of my budget is $131.55 which is below the maximum limit of $150. I did not order any of my hardware materials online instead I went to local electronic stores such as Canada Computers and Creatron Inc. They had everything I needed in my budget including Raspberry Pi 3 kit, TMP006 IR Temperature Sensor, SD Card, USB to Ethernet Adapter, etc. I also included where I got my parts from the links in my budget. Here is a image below to show you my budget and all the materials I used for my project.
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Budget.PNG)
+![Budget](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Budget.PNG)
 
 # Time Commitment
 The project did not take me long to complete because I got my parts ahead of time and started working on it as soon as possible.
@@ -34,22 +34,25 @@ https://learn.adafruit.com/tmp006-temperature-sensor-python-library/hardware
 
 Firstly, you need to connect a jumper wire from the 3.3V pin of the Raspberry Pi 3 to first pin(VCC) on my sensor. Secondly, the GND pin on Raspberry Pi 3 connects another jumper wire to the second pin(GND) of my sensor. After, connect a third jumper wire from SDA pin of Raspberry Pi 3 to the third pin(SDA) of my sensor. Then, the SCL pin of Raspberry Pi 3 connects with the fourth pin(SCL) of my sensor. The next link will give you information on how to change your sensor's default address which is 0x40 to another one ranging from 0x41 to 0x47. https://learn.adafruit.com/infrared-thermopile-sensor-breakout/assembly-and-wiring
 
+![PCB in Case](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/CaseOnPi%26PCB.jpg)
+
 # PCB / Soldering
 I made a fritzing file in my repository to create my own custom PCB just by following my breadboard and schematic
 connections to do the same for the PCB. The file is called Thermometer Circuit Diagram.fzz in my github repository. 
 https://github.com/n01103934/Thermometer
 
 Here are images below to view my breadboard, schematic, and pcb diagrams for my project.
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png)
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png)
+![Breadboard](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png)
+![Schematic](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
+![PCB](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png)
 
 Additionally, I emailed the prototype lab my gerber files by exporting them from my fritzing project and got my board 
 the next day. Then, I started soldering my via traces on my custom PCB and connected my header pins to the board. 
 After, I soldered my header pins on sensor to my PCB board from the top to bottom and I connected the header socket to 
-my board as well. Finally, I connected the PCB to my Raspberry Pi 3, powered it on, ran the sudo i2cdetect -y 1 on cmd
+my board as well. I had to solder a wire connecting from the GND pin to my via trace connected to ground in order for my Raspberry Pi 3 to have a solid connection with my sensor. Finally, I connected the PCB to my Raspberry Pi 3, powered it on, ran the sudo i2cdetect -y 1 on cmd
 terminal and I got my I2C address (0x46) displayed on the output for my sensor. 
-![Image description](https://github.com/n01103934/Thermometer/blob/master/images/I2C_PCB.PNG)
+
+![I2COnPCB](https://github.com/n01103934/Thermometer/blob/master/images/I2C_PCB.PNG)
 
 # Power Up
 First you need to download the operating system of Pi and format the micro SD card using the SD card reader included with 
@@ -64,24 +67,23 @@ setup of the Raspberry Pi is from the first link provided above just follow the 
 to consider using for updating your Raspberry Pi 3 are sudo apt-get update and sudo apt-get dist-upgrade for installing packages to their latest versions for Pi. You need to make sure that I2C is enabled on the Raspberry Pi in order to use cmds like i2c detect for displaying the address of your sensor. In order to do that go to the Raspberry Pi configuration from start menu or type in terminal sudo raspi-config, then go to Interfaces and click on the I2C option to enable it if it hasn't already been enabled yet. 
 
 Here is an image below to demonstrate me powering up my Raspberry Pi 3 with PCB connected to it.
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCB_PowerUp.png)
+![PCB Powerup](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCB_PowerUp.png)
  
 # Unit Testing
 In order to test whether or not the sensor is connected to the Raspberry Pi 3 properly you need to
 open up a terminal on Pi and issue the command sudo i2cdetect -y 1 to list all the I2C addresses connected to the
 Raspberry Pi 3. Here is an image below to show you my I2C address shown in the output screen.
 
-![Image description](https://github.com/n01103934/Thermometer/blob/master/images/I2CAddress.PNG)
+![I2C Address](https://github.com/n01103934/Thermometer/blob/master/images/I2CAddress.PNG)
 
 Additionally, once you see your address listed on the output now we can test the sensor by running
 the python program from adafruit website. Follow the instructions on the adafruit website to install the python library
 into Raspberry Pi 3 to run the simpletest.py that came with adafruit library for reading data from the sensor. The program
-can be found in my github repository called simpletest.py and to compile/run it type in python simpletest.py. This command 
+can be found in my github repository called simpletest.py and to compile/run it type in sudo python simpletest.py. This command 
 will not only compile it but run the python program if there are no errors in the file and after entering it the program will
 execute to display the temperature readings every second. 
-![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/TempDataCapture.PNG)
 
-
+![Sensor Data](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/TempDataCapture.PNG)
 
 I have provided a link below to the open-sourced adafruit website which will show you step by step how to make the sensor read data by running the python program in terminal. https://learn.adafruit.com/tmp006-temperature-sensor-python-library/software 
 
