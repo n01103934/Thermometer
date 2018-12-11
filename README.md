@@ -11,7 +11,7 @@ directly close to it. Here is a system UML diagram below to show you how my hard
 
 # Bill of Materials/Budget
 The total cost of my budget is $131.55 which is below the maximum limit of $150. I did not order any of my hardware materials online instead I went to local electronic stores such as Canada Computers and Creatron Inc. They had everything I needed in my budget including Raspberry Pi 3 kit, TMP006 IR Temperature Sensor, SD Card, USB to Ethernet Adapter, etc. I also included where I got my parts from the links in my budget. Here is a image below to show you my budget and all the materials I used for my project.
-https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Budget.PNG
+![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Budget.PNG)
 
 # Time Commitment
 The project did not take me long to complete because I got my parts ahead of time and started working on it as soon as possible.
@@ -45,9 +45,9 @@ connections to do the same for the PCB. The file is called Thermometer Circuit D
 https://github.com/n01103934/Thermometer
 
 Here are links to view my breadboard, schematic, and pcb diagrams for my project below.
-https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png
-https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png
-https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png
+![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png)
+![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
+![Image description](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png)
 
 Additionally, I emailed the prototype lab my gerber files by exporting them from my fritzing project and got my board 
 the next day. Then, I started soldering my via traces on my custom PCB and connected my header pins to the board. 
