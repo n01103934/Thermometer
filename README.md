@@ -44,6 +44,11 @@ I made a fritzing file in my repository to create my own custom PCB just by foll
 connections to do the same for the PCB. The file is called Thermometer Circuit Diagram.fzz in my github repository. 
 https://github.com/n01103934/Thermometer
 
+Here are links to view my breadboard, schematic, and pcb diagrams for my project below.
+https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_bb.png
+https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png
+https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png
+
 Additionally, I emailed the prototype lab my gerber files by exporting them from my fritzing project and got my board 
 the next day. Then, I started soldering my via traces on my custom PCB and connected my header pins to the board. 
 After, I soldered my header pins on sensor to my PCB board from the top to bottom and I connected the header socket to 
