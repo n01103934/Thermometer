@@ -46,6 +46,9 @@ Here are images below to view my breadboard, schematic, and pcb diagrams for my 
 ![Schematic](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_schem.png)
 ![PCB](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/Thermometer%20Circuit%20Diagram_pcb.png)
 
+![PCB Top](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBTop.jpg)
+![PCB Bottom](https://raw.githubusercontent.com/n01103934/Thermometer/master/images/PCBBottom.jpg)
+
 Additionally, I emailed the prototype lab my gerber files by exporting them from my fritzing project and got my board 
 the next day. Then, I started soldering my via traces on my custom PCB and connected my header pins to the board. 
 After, I soldered my header pins on sensor to my PCB board from the top to bottom and I connected the header socket to 
