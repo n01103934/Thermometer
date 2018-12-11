@@ -84,3 +84,8 @@ and object temperature just by pointing my finger towards it. The temperature re
 out every second and change based on me putting my hand close to it and far from it. 
 The program is running on an infinite loop so you don't need to keep running it again and again
 to see if the temperature values are changing. 
+
+# Reproducible
+I believe that my project is reproducible because I have provided detailed step by step instructions above
+for anyone who wants to build my project on their own. If you follow my instructions and references carefully you should 
+be able to recreate the same project that I made as well very easily with no problems or difficulties. I have provided files in my github repository such as my project's fitzing design file, proposal, schedule, budget, and all the necessary parts are listed in budget to build this final hardware project.
