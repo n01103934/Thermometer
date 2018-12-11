@@ -15,14 +15,8 @@ The total cost of my budget is $131.55 which is below the maximum limit of $150.
 
 # Time Commitment
 The project did not take me long to complete because I got my parts ahead of time and started working on it as soon as possible.
-However, their was still alot of time and commitment put in setting up my Raspberry Pi 3 and changing the default address to my
-address as well as reading data from sensor. I started off researching my parts for project early then I went to get them and lucky
-the electronic stores like Creatron Inc and Canada Computers have what I needed. Once I acquired the parts I started setting up my 
-Raspberry Pi 3 which took almost a week at the lastest for setup. After that I soldering the header pins with my sensor to make a 
-connection to it and the Raspberry Pi 3. Then, I tested the sensor and see if it can read data by running the python program for 
-my sensor's library and I was able to display the temperature readings on the output just by pointing finger close to the sensor.
-Overall, it took alot of time and commitment inorder to finish my project and put it all together for the next term. Finally, it 
-took about 3 to 5 weeks to complete and I achieve the end result of reading data from my final hardware for the project.
+However, their was still alot of time and commitment put in setting up my Raspberry Pi 3 and changing the default address to the
+address you are assigned as well as reading data from the sensor. If you got all your materials then it would take you about 3 to 5 weeks to complete the project as long as you follow the steps of building it. Their are electronic stores that lucky have what you need such as Creatron Inc and Canada Computers. Once you acquired the parts start setting up your Raspberry Pi 3 which took almost a week at the lastest for me to set it up. After that then solder the header pins with the sensor to make a connection to it and the Raspberry Pi 3. Then, test the sensor and see if it can read data by running the python program for the sensor's library and it should be able to display the temperature readings on the output just by pointing finger close to the sensor. Overall, it took alot of time and commitment inorder to finish this project and put it all together for the next term.
 
 # Mechanical Assembly
 Before, you connect your sensor to Raspberry Pi 3 you need to get header pins in order for your Raspberry Pi 3 to detect it. I provided 
@@ -98,6 +92,4 @@ The program is running on an infinite loop so you don't need to keep running it 
 to see if the temperature values are changing. 
 
 # Reproducible
-I believe that my project is reproducible because I have provided detailed step by step instructions above
-for anyone who wants to build my project on their own. If you follow my instructions and references carefully you should 
-be able to recreate the same project that I made as well very easily with no problems or difficulties. I have provided files in my github repository such as my project's fitzing design file, proposal, schedule, budget, and all the necessary parts are listed in budget to build this final hardware project.
+Yes
